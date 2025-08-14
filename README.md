@@ -1,19 +1,15 @@
-# hi emily!
+hi emily!
 
-Welcome to this project! This README provides information about the codebase.
+This is a README file for the project.
 
-## Overview
+## About
 
-This repository contains the project files and documentation.
+This project is set up and ready to go.
 
-## Getting Started
+## Usage
 
-To get started with this project, follow the instructions below.
+Feel free to explore and use this codebase as needed.
 
-## Contributing
+## Notes
 
-Contributions are welcome! Please feel free to submit pull requests.
-
-## License
-
-This project is open source and available under the project license.
+Have a great day!
