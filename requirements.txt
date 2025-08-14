@@ -1,0 +1,31 @@
+# MyProject Dependencies
+# Python 3.7+ required
+
+# Core dependencies (all modules are implemented in pure Python)
+# No external dependencies required for basic functionality
+
+# Optional dependencies for enhanced features:
+
+# For actual HTTP requests (API Client)
+# requests>=2.28.0
+
+# For production-grade password hashing (validators)
+# bcrypt>=4.0.0
+
+# For advanced JSON handling
+# ujson>=5.0.0
+
+# Development dependencies:
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# mypy>=1.0.0
+# pylint>=2.15.0
+
+# Documentation dependencies:
+# sphinx>=5.0.0
+# sphinx-rtd-theme>=1.2.0
+
+# Note: The library is designed to work without external dependencies
+# using Python's standard library. Install optional dependencies
+# based on your specific needs.
